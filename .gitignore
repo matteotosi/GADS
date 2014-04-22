@@ -1,0 +1,8 @@
+.metadata/
+.settings/
+.DS_Store
+bin/
+doc/
+.settings/
+.classpath
+gads.db
